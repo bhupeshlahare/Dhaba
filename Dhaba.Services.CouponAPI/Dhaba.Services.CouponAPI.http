@@ -1,0 +1,6 @@
+@Dhaba.Services.CouponAPI_HostAddress = http://localhost:5043
+
+GET {{Dhaba.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
